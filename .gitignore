@@ -33,3 +33,9 @@ Thumbs.db
 /.netlify/
 /functions/
 
+# virtual environments
+venv/
+.env/
+.venv/
+.envrc
+.direnv/
