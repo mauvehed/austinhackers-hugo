@@ -3,7 +3,6 @@ languageCode = 'en-us'
 title = 'Austin Hackers Anonymous'
 theme = 'hugo-theme-terminal'
 
-
 pagination.pagerSize = 5
 
 [params]
