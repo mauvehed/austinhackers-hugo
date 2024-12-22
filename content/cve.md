@@ -131,17 +131,17 @@ Vulnerabilities involving other parties must be either (1) presented at a regula
 [MITRE]: https://www.cve.org/PartnerInformation/ListofPartners/partner/mitre
 [meeting]: {{< baseurl >}}/meetings
 [meetings]: {{< baseurl >}}/meetings
-[template]: {{< baseurl >}}/cves/CVE-20XX-YYYY.md
-[CVE-2023-0666]: {{< baseurl >}}/cves/CVE-2023-0666.md
-[CVE-2023-0667]: {{< baseurl >}}/cves/CVE-2023-0667.md
-[CVE-2023-0668]: {{< baseurl >}}/cves/CVE-2023-0668.md
-[CVE-2023-2905]: {{< baseurl >}}/cves/CVE-2023-2905.md
-[CVE-2023-2906]: {{< baseurl >}}/cves/CVE-2023-2906.md
-[CVE-2023-4504]: {{< baseurl >}}/cves/CVE-2023-4504.md
-[CVE-2023-5841]: {{< baseurl >}}/cves/CVE-2023-5841.md
+[template]: {{< baseurl >}}/cves/cve-20xx-yyyy.md
+[CVE-2023-0666]: {{< baseurl >}}cves/cve-2023-0666.md
+[CVE-2023-0667]: {{< baseurl >}}cves/cve-2023-0667.md
+[CVE-2023-0668]: {{< baseurl >}}cves/cve-2023-0668.md
+[CVE-2023-2905]: {{< baseurl >}}cves/cve-2023-2905.md
+[CVE-2023-2906]: {{< baseurl >}}cves/cve-2023-2906.md
+[CVE-2023-4504]: {{< baseurl >}}cves/cve-2023-4504.md
+[CVE-2023-5841]: {{< baseurl >}}cves/cve-2023-5841.md
 [CVE-2024-2053]: https://korelogic.com/Resources/Advisories/KL-001-2024-001.txt
 [CVE-2024-2054]: https://korelogic.com/Resources/Advisories/KL-001-2024-002.txt
 [CVE-2024-2055]: https://korelogic.com/Resources/Advisories/KL-001-2024-003.txt
 [CVE-2024-2056]: https://korelogic.com/Resources/Advisories/KL-001-2024-004.txt
-[CVE-2024-4224]: {{< baseurl >}}/cves/CVE-2024-4224.md
+[CVE-2024-4224]: {{< baseurl >}}/cves/cve-2024-4224.md
 
