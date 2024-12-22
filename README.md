@@ -1,6 +1,6 @@
 # AHA! Website
 
-[![pages-build-deployment](https://github.com/mauvehed/austinhackers-hugo/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/mauvehed/austinhackers-hugo/actions/workflows/pages/pages-build-deployment) [![Website](https://img.shields.io/website?url=https%3A%2F%2Ftakeonme.org&label=takeonme.org&link=https%3A%2F%2Fk0mvh.io)](https://takeonme.org/)
+[![Deploy Hugo site to Pages](https://github.com/mauvehed/austinhackers-hugo/actions/workflows/hugo.yml/badge.svg)](https://github.com/mauvehed/austinhackers-hugo/actions/workflows/hugo.yml) [![Website](https://img.shields.io/website?url=https%3A%2F%2Ftakeonme.org&label=takeonme.org&link=https%3A%2F%2Fk0mvh.io)](https://takeonme.org/)
 
 This github repository contains the [website](http://takeonme.org) for the Austin Hackers Anonymous group. Someone should really update it to make it suck less.
 
