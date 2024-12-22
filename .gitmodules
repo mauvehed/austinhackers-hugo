@@ -4,3 +4,6 @@
 [submodule "hugo-xmin"]
 	path = hugo-xmin
 	url = https://github.com/yihui/hugo-xmin.git
+[submodule "themes/hugo-theme-terminal"]
+	path = themes/hugo-theme-terminal
+	url = https://github.com/panr/hugo-theme-terminal
