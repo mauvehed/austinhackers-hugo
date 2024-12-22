@@ -104,35 +104,35 @@ pagination.pagerSize = 5
 				    weight = 3
 				
 				[[languages.en.menu.main]]
+				    name = "Rules"
+				    url  = "/rules/"
+				    weight = 5
+
+				[[languages.en.menu.main]]
 				    name = "Chat"
 				    url  = "/chat/"
-				    weight = 5
+				    weight = 7
 				
 				[[languages.en.menu.main]]
 				    name = "CVE"
 				    url  = "/cve/"
-				    weight = 7
+				    weight = 9
 				
 				[[languages.en.menu.main]]
 				    name = "Mailing List"
 				    url  = "/mailinglist/"
-				    weight = 9
+				    weight = 11 
 				
 				[[languages.en.menu.main]]
 				    name = "Meetings"
 				    url  = "/meetings/"
-				    weight = 11 
+				    weight = 13 
 				
 				[[languages.en.menu.main]]
 				    name = "Our Spawn"
 				    url  = "/ourspawn/"
-				    weight = 13 
+				    weight = 15 
 				
-				[[languages.en.menu.main]]
-				    name = "Rules"
-				    url  = "/rules/"
-				    weight = 15
-
 #[module]
   # In case you would like to make changes to the theme and keep it locally in you repository,
   # uncomment the line below (and correct the local path if necessary).
