@@ -3,7 +3,7 @@ title: Home
 showinnav: false
 ---
 
-# AHA! is Austinite Hackers of Austin!
+# AHA! is Austin Hackers Anonymous
 
 The Austin Hackers Association is a loose group of hackers and security professionals in the Austin, Texas area. We have monthly [meetings](meetings) that offer short 5-10 minute presentations about a large range of topics including computer security, physical security, pentesting, electronics, programming, and general nerd/geekery.
 
