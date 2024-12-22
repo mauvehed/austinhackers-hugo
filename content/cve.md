@@ -86,7 +86,7 @@ If at any time you have concerns or are uncertain whether your security research
 
 For issues involving other parties, please see additional requirements, below. Note, these requirements do not apply to AHA! assets.
 
-* Present your findings at a regularly scheduled [meeting], under the usual public embargo terms (see our [rules](rules.html) for more details).
+* Present your findings at a regularly scheduled [meeting], under the usual public embargo terms (see our [rules](rules) for more details).
   - The most important rule is, "What happens at AHA! stays at AHA!"
 * Ask a CVE point of contact for a CVE ID reservation.
   - Merely reserving a CVE ID number in no way alters the usual AHA! embargo on material presented at AHA!
@@ -133,19 +133,19 @@ Vulnerabilities involving other parties must be either (1) presented at a regula
 
 [CVE Numbering Authority]: https://www.cve.org/PartnerInformation/ListofPartners/partner/AHA
 [MITRE]: https://www.cve.org/PartnerInformation/ListofPartners/partner/mitre
-[meeting]: /meetings.html
-[meetings]: /meetings.html
-[template]: /cves/CVE-20XX-YYYY.html
-[CVE-2023-0666]: /cves/CVE-2023-0666.html
-[CVE-2023-0667]: /cves/CVE-2023-0667.html
-[CVE-2023-0668]: /cves/CVE-2023-0668.html
-[CVE-2023-2905]: /cves/CVE-2023-2905.html
-[CVE-2023-2906]: /cves/CVE-2023-2906.html
-[CVE-2023-4504]: /cves/CVE-2023-4504.html
-[CVE-2023-5841]: /cves/CVE-2023-5841.html
+[meeting]: {{< baseurl >}}/meetings
+[meetings]: {{< baseurl >}}/meetings
+[template]: {{< baseurl >}}/cves/CVE-20XX-YYYY.md
+[CVE-2023-0666]: {{< baseurl >}}/cves/CVE-2023-0666.md
+[CVE-2023-0667]: {{< baseurl >}}/cves/CVE-2023-0667.md
+[CVE-2023-0668]: {{< baseurl >}}/cves/CVE-2023-0668.md
+[CVE-2023-2905]: {{< baseurl >}}/cves/CVE-2023-2905.md
+[CVE-2023-2906]: {{< baseurl >}}/cves/CVE-2023-2906.md
+[CVE-2023-4504]: {{< baseurl >}}/cves/CVE-2023-4504.md
+[CVE-2023-5841]: {{< baseurl >}}/cves/CVE-2023-5841.md
 [CVE-2024-2053]: https://korelogic.com/Resources/Advisories/KL-001-2024-001.txt
 [CVE-2024-2054]: https://korelogic.com/Resources/Advisories/KL-001-2024-002.txt
 [CVE-2024-2055]: https://korelogic.com/Resources/Advisories/KL-001-2024-003.txt
 [CVE-2024-2056]: https://korelogic.com/Resources/Advisories/KL-001-2024-004.txt
-[CVE-2024-4224]: /cves/CVE-2024-4224.html
+[CVE-2024-4224]: {{< baseurl >}}/cves/CVE-2024-4224.md
 
