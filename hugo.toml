@@ -1,4 +1,4 @@
-baseURL = 'https://takeonme.org/'
+baseURL = 'https://mauvehed.github.io/austinhackers-hugo'
 languageCode = 'en-us'
 title = 'Austin Hackers Anonymous'
 theme = 'hugo-theme-terminal'
