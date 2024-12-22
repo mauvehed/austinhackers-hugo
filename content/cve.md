@@ -18,7 +18,7 @@ AHA! welcomes feedback from security researchers and the general public to help 
 
 If you believe you have discovered a vulnerability, privacy issue, exposed data, or other security issues in any of our assets, we want to hear from you. This would include, but is not limited to, the AHA! website, AHA! e-mail services, and other AHA! communication channels.
 
-If you believe you have discovered a security issue involving another party, we are happy to help you report that issue to the appropriate organizataion. Please see "Systems in Scope," below.
+If you believe you have discovered a security issue involving another party, we are happy to help you report that issue to the appropriate organization. Please see "Systems in Scope," below.
 
 This policy outlines steps for reporting vulnerabilities to us, what we expect, what you can expect from us.
 
