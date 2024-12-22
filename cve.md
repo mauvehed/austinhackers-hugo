@@ -93,13 +93,13 @@ For issues involving other parties, please see additional requirements, below. N
 
 ## Published CVEs
 
-When we publish CVEs, we will tend to use this [template](./template/), adjusted to taste.
+When we publish CVEs, we will tend to use this [template], adjusted to taste.
 
 | CVE              | Meeting   | Issue                                      |
 | ---------------- | --------- | ------------------------------------------ | 
-| [CVE-2023-0666](./CVE-2023-0666/)  | 0x00c7    | **Wireshark RTPS Parsing Buffer Overflow** | 
-| [CVE-2023-0667](./CVE-2023-0667/)  | 0x00c7    | **Wireshark MSMMS parsing buffer overflow** |
-| [CVE-2023-0668](./CVE-2023-0668/)  | 0x00c7    | **Wireshark IEEE-C37.118 parsing buffer overflow** |
+| [CVE-2023-0666]  | 0x00c7    | **Wireshark RTPS Parsing Buffer Overflow** | 
+| [CVE-2023-0667]  | 0x00c7    | **Wireshark MSMMS parsing buffer overflow** |
+| [CVE-2023-0668]  | 0x00c7    | **Wireshark IEEE-C37.118 parsing buffer overflow** |
 | [CVE-2023-2905]  | 0x00c8    | **Cesanta Mongoose MQTT Message Parsing Heap Overflow** |
 | [CVE-2023-2906]  | 0x00c8    | **Wireshark CP2179 divide by zero** |
 | [CVE-2023-4504]  | 0x00c9    | **CUPS/libppd PostScript Parsing Heap Overflow** |
