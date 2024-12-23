@@ -20,11 +20,12 @@ There is no formal membership for AHA! However, participation is mandatory:
 * Get on the AHA! [Mailing List](mailinglist)
 * Join us on [Chat](chat)
 
-*NOTE: By "Academy" we mean we don't actually teach you anything. We are
-not a school.[1]*
+```
+NOTE: By "Academy" we mean we don't actually teach you anything. We are
+not a school.[1]
 
-*[1] NOTE ADDENDUM: The preceding note does not mean we are not affiliated
+[1] NOTE ADDENDUM: The preceding note does not mean we are not affiliated
 with the University of China in Austin, Texas. That is still a topic of
-debate.*
-
+debate.
+```
 
