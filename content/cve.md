@@ -17,6 +17,8 @@ Our VDP is derived from the [disclose.io](https://policymaker.disclose.io/policy
 
 AHA! welcomes feedback from security researchers and the general public to help improve our security and the security of the internet in general. Click the below to read more about that.
 
+{{< details >}}
+
 If you believe you have discovered a vulnerability, privacy issue, exposed data, or other security issues in any of our assets, we want to hear from you. This would include, but is not limited to, the AHA! website, AHA! e-mail services, and other AHA! communication channels.
 
 If you believe you have discovered a security issue involving another party, we are happy to help you report that issue to the appropriate organization. Please see "Systems in Scope," below.
@@ -79,6 +81,8 @@ If at any time you have concerns or are uncertain whether your security research
 
 *Note that the Safe Harbor applies only to legal claims under the control of the organization participating in this policy, and that the policy does not bind independent third parties.*
 
+{{< /details >}}
+
 # Generating AHA! CVEs
 
 For issues involving other parties, please see additional requirements, below. Note, these requirements do not apply to AHA! assets.
@@ -115,9 +119,9 @@ When we publish CVEs, we will tend to use this [template], adjusted to taste.
 
 We've reserved the following CVEs for upcoming publication.
 
-| CVE             | Meeting   |
+| Issue Number    | Meeting   |
 | --------------- | --------- |
-| None yet!       | 0x00xx    |
+| None right now! | 0x00xx    |
 
 ### Contact
 
