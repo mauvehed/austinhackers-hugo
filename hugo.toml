@@ -1,5 +1,5 @@
 #baseURL = 'https://mauvehed.github.io/austinhackers-hugo'
-baseURL = "http://localhost:1313/"
+baseURL = "https://takeonme.org"
 languageCode = 'en-us'
 title = 'Austin Hackers Anonymous'
 theme = 'terminal'
