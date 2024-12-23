@@ -6,6 +6,9 @@ theme = 'hugo-theme-terminal'
 pagination.pagerSize = 5
 
 [params]
+  # displayed message at the bottom of the page
+  footer = "&copy 2007 -- {Year} Austin Hackers of Academics   •   [Email](aha@takeonme.org) // [Mastodon] (https://infosec.exchange/@austinhackers)   •   View and contribute to this site on [Github](https://github.com/AustinHackers/austinhackers.github.io)"
+  
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
   contentTypeName = "posts"
@@ -131,7 +134,12 @@ pagination.pagerSize = 5
 				    name = "Our Spawn"
 				    url  = "/ourspawn/"
 				    weight = 15 
-				
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 #[module]
   # In case you would like to make changes to the theme and keep it locally in you repository,
   # uncomment the line below (and correct the local path if necessary).
