@@ -1,14 +1,12 @@
-baseURL = 'https://mauvehed.github.io/austinhackers-hugo'
+#baseURL = 'https://mauvehed.github.io/austinhackers-hugo'
+baseURL = "http://localhost:1313/"
 languageCode = 'en-us'
 title = 'Austin Hackers Anonymous'
-theme = 'hugo-theme-terminal'
+theme = 'terminal'
 
 pagination.pagerSize = 5
 
 [params]
-  # displayed message at the bottom of the page
-  footer = "&copy 2007 -- {Year} Austin Hackers of Academics   •   [Email](aha@takeonme.org) // [Mastodon] (https://infosec.exchange/@austinhackers)   •   View and contribute to this site on [Github](https://github.com/AustinHackers/austinhackers.github.io)"
-  
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
   contentTypeName = "posts"
