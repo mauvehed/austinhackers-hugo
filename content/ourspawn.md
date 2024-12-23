@@ -1,5 +1,6 @@
 ---
 title: Our Spawn
+aliases: ["/ourspawn.html"]
 ---
 
 There have been a number of sibling groups that have spawned from AHA!,

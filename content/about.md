@@ -1,5 +1,6 @@
 ---
 title: About Us
+aliases: ["/aboutus.html"]
 ---
 
 ## Who we are

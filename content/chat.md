@@ -1,5 +1,6 @@
 ---
 title: Chat
+aliases: ["/chat.html"]
 ---
 
 While traditionally the best way to communicate in AHA was the [mailing

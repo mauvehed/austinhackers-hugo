@@ -1,5 +1,6 @@
 ---
 title: CVE
+aliases: ["/cve.html"]
 ---
 
 # AHA! is a Research CNA!

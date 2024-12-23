@@ -1,5 +1,6 @@
 ---
 title: Rules
+aliases: ["/rules.html"]
 ---
 
 ### Rules
