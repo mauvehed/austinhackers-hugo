@@ -119,7 +119,7 @@ When we publish CVEs, we will tend to use this [template], adjusted to taste.
 
 We've reserved the following CVEs for upcoming publication.
 
-| Issue Number    | Meeting   |
+| AHA! Issue Number | Meeting   |
 | --------------- | --------- |
 | None right now! | 0x00xx    |
 
